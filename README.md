@@ -1,14 +1,14 @@
 # Giới thiệu
 Một chiếc app window mà Kumo đã tìm thấy đâu đó trên mạng được sửa lại theo phong cách của anh ấy.
----
+
 Source code và các file chi tiết ở trong branch master.
 ___
 # Translate-App
 App này được sử dụng để dịch các ngôn ngữ bằng googletrans trong Python.
----
+
 Bạn có thể cài đặt với câu lệnh sau:
 ```pip install googletrans```
----
+
 App sẽ sử dụng tkinter để làm GUI, bạn có thể tìm hiểu thêm tại [đây](https://tkdocs.com/tutorial/index.html)
 ___
 ## Cài đặt thêm
