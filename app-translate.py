@@ -37,9 +37,9 @@ def translate():
     output = temp.text
     box_out.insert(END, output)
 
-clear_button = Button(button_frame, text='CLEAR', font=('Arial',10), bg='#030303', fg='#FFFFFF', command=clear)
+clear_button = Button(button_frame, text='CLEAR', font=('ROBOTO',10), bg='#030303', fg='#FFFFFF', command=clear)
 clear_button.place(x=300, y=300)
-trans_button = Button(button_frame, text='TRANSLATE', font=('Arial',10), bg='#030303', fg='#FFFFFF',command=translate)
+trans_button = Button(button_frame, text='TRANSLATE', font=('ROBOTO',10), bg='#030303', fg='#FFFFFF',command=translate)
 trans_button.place(x=120, y=300)
 
 ## Output
