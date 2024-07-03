@@ -1,3 +1,7 @@
+from tkinter import *
+from tkinter import ttk
+import tkinter as tk
+from PIL import Image, ImageTk
 from controller import *
 
 ## TK window
