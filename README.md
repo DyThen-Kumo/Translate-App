@@ -21,7 +21,7 @@ Update khả năng chọn thêm nhiều ngôn ngữ khác.
 
 Các hàm xử lý back-end (file controller.py) được tách riêng ra với front-end (file viewer.py).
 ___
-## Phiên bản 3
+## Phiên bản 3: update3.0
 Update thêm tính năng OCR: giúp nhận dạng các ký tự tiếng Anh từ hình ảnh.
 
 OCR được sử dụng dựa theo Transformers trên HuggingFace. Nếu muốn tuỳ chỉnh thêm cho tiếng Việt, có thể tham khảo tại: [đây](https://github.com/DyThen-Kumo/CS519.O21.KHTN)
